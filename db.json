@@ -1,11 +1,13 @@
 {
-  "posts": [
-    {
-      "id": 1,
-      "type": "posts",
-      "attributes": {
-        "title": "blog Post" 
+  "posts": {
+    "data": [
+      {
+        "id": 1,
+        "type": "posts",
+        "attributes": {
+          "title": "blog Post" 
+        }
       }
-    }
-  ]
+    ]
+  }
 }
