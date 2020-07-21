@@ -2,10 +2,10 @@
   "posts": [
     {
       "id": 1,
-      "title": "hello"
+      "type": "posts",
+      "attributes": {
+        title: "blog Post" 
+      }
     }
-  ],
-  "profile": {
-    "name": "typicode"
-  }
+  ]
 }
