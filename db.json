@@ -1,13 +1,13 @@
 {
-  features: [
+  "features": [
     {
-      id: 1,
-      description: "Set names for each guest",
-      locationId: 1245,
-      status: 1,
-      author: {
-        id: 1,
-        name: "Josh Allen",
+      "id": 1,
+      "description": "Set names for each guest",
+      "locationId": 1245,
+      "status": 1,
+      "author": {
+        "id": 1,
+        "name": "Josh Allen",
       }
     }
   ]
